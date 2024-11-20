@@ -10,7 +10,7 @@
                 "request": "launch",
                 "name": "Launch Program",
                 "skipFiles": ["<node_internals>/**"],
-                "program": "/Users/testvagrant/kuluPrep/Problem.js"
+                "program": "/Users/testvagrant/kuluPrep/Problem2.js"
             }
         ]
     }
